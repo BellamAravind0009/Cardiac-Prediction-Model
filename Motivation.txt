@@ -1,0 +1,45 @@
+Motivation
+Objective
+Base Paper
+Problem Statement
+Literature survey
+Modules
+Dataset
+Work plan
+Proposed Techniques
+References
+
+
+Motivation
+
+
+one of the most rising cases all around the world is cardic diseases which is creating a lot of fear in people,we cant say that we can cure them completely 
+but of the way that we can ensure is taking precautions to that and early prediction of the disease but these tests are too costly ,inorder to make these tests in an affordable manner and also to make sure that the results that are getting are having the highest accuracy as the expensive ones .
+Soo our main motive is to predict the cardic diseases with highest accuracy as possible
+
+
+Rising global concern: Cardiovascular diseases are on the rise worldwide, causing significant fear among people due to their prevalence and severity.
+
+Focus on prevention and early detection: While complete cure is elusive, the emphasis is on proactive measures such as early detection and preventive actions to mitigate the impact of cardiac diseases.
+
+Challenges with current tests: Existing diagnostic tests for cardiac diseases are costly, hindering accessibility and affordability for many individuals.
+
+Project objective: The project aims to enhance the accuracy of cardiac disease prediction while making diagnostic tests more affordable through innovative approaches and partnerships.
+
+Key goals: The main goals include improving predictive accuracy, reducing costs, increasing accessibility, ensuring validation and compliance, and achieving widespread adoption of affordable and accurate cardiac diagnostic solutions.
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+
+Develop and implement machine learning models for cardiac disease prediction, including but not limited to logistic regression, decision trees, random forests, support vector machines, and neural networks.
+
+Evaluate the performance of each machine learning model in terms of accuracy, precision, recall, F1-score, and area under the receiver operating characteristic curve (AUC-ROC).
+
+Optimize the hyperparameters of the machine learning models through techniques such as grid search, random search, and Bayesian optimization to enhance predictive performance.
+
+Assess the robustness and generalizability of the cardiac disease prediction models through cross-validation techniques, including k-fold cross-validation and stratified cross-validation.
+
+Compare the predictive performance of the developed machine learning models against traditional risk assessment methods and clinical guidelines, aiming to demonstrate superior accuracy and reliability in predicting cardiac disease outcom
